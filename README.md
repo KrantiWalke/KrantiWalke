@@ -57,13 +57,15 @@
 
 #### Education 📚
 - 👩‍🎓 **Masters in Computer Science** 
-    California State University, Fresno, CA, USA
-- 🎓 **Post Graduate Program in AI and ML** Great Learning in collaboration with University Of Texas at Austin
+  - California State University, Fresno, CA, USA
+- 🎓 **Post Graduate Program in AI and ML** 
+  - Great Learning in collaboration with University Of Texas at Austin
   - [eportfolio](https://eportfolio.greatlearning.in/kranti-sambhaji-walke)
-- 🎓 **B.E in Electronics & Telecommunication Engineering** Savitribai Phule Pune University, India
+- 🎓 **Bachelor of Engineering in Electronics & Telecommunication Engineering**
+  - Savitribai Phule Pune University, India
 
 #### Experience 💼
-- 🕘 **Formerly @Atos @Worldline**
+- 🕘 **Software Engineer - Formerly @Atos @Worldline**
 
 </td>
 <td valign="top" width="50%">
