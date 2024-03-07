@@ -20,17 +20,17 @@
 
 ###
 
-<p align="left">🎓 I'm Kranti Walke, a passionate and innovative Data Scientist based in Fresno, CA, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science, and an extensive background in Electronics & Telecommunication Engineering, my academic journey has been a blend of rigorous learning and practical application.
+<p align="left"> 👩‍🎓 I'm Kranti Walke, a passionate and innovative Data Scientist based in Fresno, CA, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science, and an extensive background in Electronics & Telecommunication Engineering, my academic journey has been a blend of rigorous learning and practical application.
 
-👩‍ Actively looking for opportunities in Data Science, Machine Learning, Artificial Intelligence, Reinforcement Learning, Software Engineering
+📈💼👩‍💼🤝 Actively looking for opportunities in Data Science, Machine Learning, Artificial Intelligence, Reinforcement Learning, Software Engineering
 
-🎓 Masters in Computer Science - CSU Fresno,CA,USA
+👩‍🎓 Masters in Computer Science - CSU Fresno,CA,USA
 
 🎓 Post Graduate Program - Artificial Intelligence and Machine Learning : [eportfolio](https://eportfolio.greatlearning.in/kranti-sambhaji-walke)
 
 🎓 B.E in Electronics & Telecommunication Engineering
 
-🕘 Worked @Atos @Worldline 🕕
+💼🕘 Worked @Atos @Worldline 🕕
 
 
 <br/>
@@ -57,11 +57,7 @@
 
 <h4 align="left">💻 Programming, Frameworks, Cloud Computing & Big Data:</h4> <p align="left">C++, Python(TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, OpenCV), Bash, SQL(PostgreSQL, MySQL, BigQuery), MongoDB, AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Auto ML, DataFlow), Apache(Spark, Hadoop, Kafka, Hive), Flask, RestAPI, Streamlit, Postman</p>
 
-###
 
-
-
-###
 
 <h4 align="left">🤖 Machine Learning:</h4>
 
