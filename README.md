@@ -20,7 +20,15 @@
 
 ###
 
-<p align="left">🎓 I'm Kranti Walke, a passionate and innovative Data Scientist based in Fresno, CA, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science from California State University, Fresno, and an extensive background in Electronics & Telecommunication Engineering from Savitribai Phule Pune University, my academic journey has been a blend of rigorous learning and practical application.
+<p align="left">🎓 I'm Kranti Walke, a passionate and innovative Data Scientist based in Fresno, CA, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science, and an extensive background in Electronics & Telecommunication Engineering, my academic journey has been a blend of rigorous learning and practical application.
+
+👩‍ Actively looking for opportunities in Data Science, Machine Learning, Artificial Intelligence, Reinforcement Learning, Software Engineering
+
+🎓 Masters in Computer Science - CSU Fresno,CA,USA
+🎓 Post Graduate Program - Artificial Intelligence and Machine Learning : [eportfolio](https://eportfolio.greatlearning.in/kranti-sambhaji-walke)
+🎓 B.E in Electronics & Telecommunication Engineering
+
+🕘 Worked @Atos @Worldline 🕕
 
 <br/>
 <br/>
