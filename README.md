@@ -24,16 +24,14 @@
 
 👩‍ Actively looking for opportunities in Data Science, Machine Learning, Artificial Intelligence, Reinforcement Learning, Software Engineering
 
-<br/>
-<br/>
-<br/>
 🎓 Masters in Computer Science - CSU Fresno,CA,USA
+
 🎓 Post Graduate Program - Artificial Intelligence and Machine Learning : [eportfolio](https://eportfolio.greatlearning.in/kranti-sambhaji-walke)
+
 🎓 B.E in Electronics & Telecommunication Engineering
+
 🕘 Worked @Atos @Worldline 🕕
-<br/>
-<br/>
-<br/>
+
 
 <br/>
 <br/>
