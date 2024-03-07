@@ -23,6 +23,7 @@
 <p align="left">🎓 I'm Kranti Walke, a passionate and innovative Data Scientist based in Fresno, CA, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science from California State University, Fresno, and an extensive background in Electronics & Telecommunication Engineering from Savitribai Phule Pune University, my academic journey has been a blend of rigorous learning and practical application.<br><br>- 👨🏽‍💻 I’m interested in MLops, Data Science, Machine Learnin, Deep Learning, CV, NLP, AI and more.<br>- [📫](mailto:walkekranti333@gmail.com) 👈 Send me an email if you want to reach me out!.<br>- [📝](link to resume) 👈 Here you can find my résumé.</p>
 
 ###
+---
 
 <h2 align="left">🛠 Technical Skills:</h2>
 
@@ -51,6 +52,7 @@
 <p align="left">Docker, Kubernetes, MLflow, Kubeflow, Tableau, Power BI, Git, GitHub, CI/CD, TensorBoard</p>
 
 ###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
