@@ -50,6 +50,39 @@
 
 ###
 ---
+<p align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### Education 📚
+- 👩‍🎓 **Masters in Computer Science**
+  - CSU Fresno, CA, USA
+- 🎓 **Post Graduate Program in AI and ML**
+  - ePortfolio
+- 🎓 **B.E in Electronics & Telecommunication Engineering**
+
+#### Experience 💼
+- 🕘 **Formerly @Atos @Worldline**
+
+</td>
+<td valign="top" width="50%">
+
+#### Interests 👨🏽‍💻
+- I’m interested in MLops, Data Science, Machine Learning, Deep Learning, CV, NLP, AI, and more.
+
+#### Contact 📫
+- Send me an [email](mailto:your-email@example.com) if you want to reach out!
+
+#### Resume 📝
+- [Here](https://my-resume-link) you can find my résumé.
+
+</td>
+</tr>
+</table>
+</p>
+
+---
 
 <h2 align="left">🛠 Technical Skills:</h2>
 
