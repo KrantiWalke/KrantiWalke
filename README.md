@@ -25,12 +25,16 @@
 <br/>
 <br/>
 <br/>
-- 👨🏽‍💻 I’m interested in MLops, Data Science, Machine Learnin, Deep Learning, CV, NLP, AI and more.
+
+- 👨🏽‍💻 I’m interested in MLops, Data Science, Machine Learning, Deep Learning, CV, NLP, AI and more.
 - [📫](mailto:walkekranti333@gmail.com) 👈 Send me an email if you want to reach me out!.
-- [📝](link to resume) 👈 Here you can find my résumé.
+- [📝](https://my resume link) 👈 Here you cand find my résumé.
+
+
 <br/>
 <br/>
 <br/>
+
 </p>
 
 ###
