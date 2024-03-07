@@ -28,11 +28,11 @@
 
 ###
 
-<h4 align="left">💻 Programming, Frameworks, Cloud Computing & Big Data:</h4>
+<h4 align="left">💻 Programming, Frameworks, Cloud Computing & Big Data:</h4> <p align="left">C++, Python(TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, OpenCV), Bash, SQL(PostgreSQL, MySQL, BigQuery), MongoDB, AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Auto ML, DataFlow), Apache(Spark, Hadoop, Kafka, Hive), Flask, RestAPI, Streamlit, Postman</p>
 
 ###
 
-<p align="left">C++, Python(TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, OpenCV), Bash, SQL(PostgreSQL, MySQL, BigQuery), MongoDB, AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Auto ML, DataFlow), Apache(Spark, Hadoop, Kafka, Hive), Flask, RestAPI, Streamlit, Postman</p>
+
 
 ###
 
