@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/krantiwalke/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="walkekranti333@gmail.com" target="_blank">
+  <a href="mailto:walkekranti333@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="kranti_walke@outlook.com" target="_blank">
+  <a href="mailto:kranti_walke@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
@@ -51,7 +51,7 @@
 - I’m interested in MLops, Data Science, Machine Learning, Deep Learning, CV, NLP, AI, and more.
 
 #### Contact 📫
-- Send me an [email](mailto:your-email@example.com) if you want to reach out!
+- Send me an [email](mailto:walkekranti333@gmail.com) if you want to reach out!
 
 #### Resume 📝
 - [Here](https://my-resume-link) you can find my résumé.
