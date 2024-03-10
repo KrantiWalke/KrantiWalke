@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left"> 👩‍🎓 I'm Kranti Walke, a passionate and innovative Data Scientist based in Fresno, CA, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science, and an extensive background in Electronics & Telecommunication Engineering, my academic journey has been a blend of rigorous learning and practical application.
+<p align="left"> 👩‍🎓 I'm Kranti Walke, a passionate and innovative Data Scientist, dedicated to pushing the boundaries of AI and software engineering. With a Master's in Computer Science, and an extensive background in Electronics & Telecommunication Engineering, my academic journey has been a blend of rigorous learning and practical application.
 
 📈💼👩‍💼🤝 Actively looking for opportunities in Data Science, Machine Learning, Artificial Intelligence, Reinforcement Learning, Software Engineering
 </p>
