@@ -54,7 +54,7 @@
 - Send me an [email](mailto:walkekranti333@gmail.com) if you want to reach out!
 
 #### Resume 📝
-- [Here](https://my-resume-link) you can find my résumé.
+- [Here]([https://my-resume-link](https://krantiwalke-github-io.vercel.app/Resume_KrantiWalke.pdf) you can find my résumé.
 
 </td>
 </tr>
